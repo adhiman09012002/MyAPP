@@ -1,0 +1,500 @@
+   38  git status
+   39  git commit -m "C0mmit Message"
+   40  clear
+   41  git init
+   42  clear
+   43  git add
+   44  clear
+   45  git commit -m "Commit Message"
+   46  git status
+   47  git push origin master
+   48  git push --all
+   49  git push gh repo clone adhiman09012002/prince-dhiman
+   50  git pull gh repo clone adhiman09012002/prince-dhiman
+   51  git branch
+   52  git merge master
+   53  git log
+   54  git remote add origin https://github.com/adhiman09012002/prince-dhiman.git
+   55  git pullhttps://github.com/adhiman09012002/prince-dhiman.git
+   56  git remote
+   57  git remote add origin https://github.com/adhiman09012002/prince-dhiman.git
+   58  git remote
+   59  git push origin toolup
+   60  clear
+   61  git branch dhiman
+   62  git checkout dhiman
+   63  mkdir sas
+   64  touch jxkjbaxs
+   65  touch
+   66  touch hh
+   67  git add --a
+   68  git  commit -m"commit mesage"
+   69  git push origin dhiman
+   70  git log
+   71  git remote add origin https://github.com/adhiman09012002/project-task2.git
+   72  git remote
+   73  git add -A
+   74  git commit -m "changes have been made on Feature-1 branch"
+   75  git commit -m "changes have been made om Master-1 branch"
+   76  git log
+   77  git remote add origin https://github.com/adhiman09012002/project-task2.git
+   78  git init
+   79  git remote -V
+   80  clear
+   81  git log
+   82  git remote add origin https://github.com/adhiman09012002/project-task2.git
+   83  git remote
+   84  git init
+   85  git remote -v
+   86  git pull gh repo clone adhiman09012002/project-task2
+   87  git branch feature1
+   88  git checout feature1
+   89  git checkout feature1
+   90  git status
+   91  git checkout feature1
+   92  mkdir scmproj
+   93  touch file4.txt
+   94  touch scm.html
+   95  touch ajaydhiman.js
+   96  git add --a
+   97  git checkout feature1
+   98  clear
+   99  git checkout feature1
+  100  git checkout master
+  101  clear
+  102  fit checkout feature1
+  103  git commit -m "changes made in feature1"
+  104  clear
+  105  git checkout feature1
+  106  git commit -m "changes made in feature1"
+  107  touch wlcm3.txt
+  108  notepad wlcm3.txt
+  109  git add -A
+  110  git checkout master
+  111  git merge feature1
+  112  git mergetool
+  113  clear
+  114  touch demo2
+  115  notepad demo2
+  116  git status
+  117  git add --a
+  118  git status
+  119  git log --online
+  120  git log --oneline
+  121  git reset 7802963 --hard
+  122  git reset f7345dc --hard
+  123  git log --oneline
+  124  clear
+  125  git init
+  126  clear
+  127  git init
+  128  git pull https://github.com/deep1789/gitsecond.git
+  129  git branch
+  130  git push gh repo clone deep1789/gitsecond
+  131  git push https://github.com/deep1789/gitsecond.git
+  132  git remote
+  133  git push https://github.com/adhiman09012002/gitsecond.git
+  134  git push gh repo clone adhiman09012002/gitsecond
+  135  git remote 
+  136  git act1
+  137  touch about.txt
+  138  git status
+  139  touch welcome.txt
+  140  touch contact.txt
+  141  git status
+  142  git merge conflict
+  143  git merge
+  144  git merge feacture1
+  145  git checkout feacture1
+  146  touch ajay0109.txt
+  147  git status
+  148  mkdir act1
+  149  git branch
+  150  git checkout
+  151  git status
+  152  touch welcome.txt
+  153  git status
+  154  clear
+  155  git merge comflict
+  156  git init
+  157  java -Xbootclasspath/p:ESEdition.jar -jar burpsuite_pro_v1.7.34.jar
+  158  git add .
+  159  git commit -m "ajay dhiman"
+  160  git push
+  161  git push
+  162  git init
+  163  git add .
+  164  cd desktop/AI-Image
+  165  git status
+  166  git add .
+  167  git commit -m "dsjhdsf"
+  168  git push
+  169  git push --set-upstream origin maoin
+  170  git push --set-upstream origin main
+  171  git push origin main
+  172  git checkout master
+  173  git checkout master
+  174  git push origin master
+  175  git push origin main
+  176  git https://github.com/adhiman09012002/Bonik-website.git
+  177  git clone https://github.com/adhiman09012002/Bonik-website.git
+  178  git inii
+  179  git add .
+  180  git status
+  181  git init
+  182  git status
+  183  git init
+  184  git status
+  185  cd ..
+  186  pwd
+  187  ls
+  188  ls -l
+  189  ls -a
+  190  cd downloads
+  191  cd Calculator1
+  192  cd..
+  193  cd ..
+  194  cd Calculator1
+  195  cd /
+  196  cd Calculator1
+  197  cd Desktop
+  198  cd ..
+  199  git status
+  200  cd Desktop
+  201  cd Desktop
+  202  cd clswrk
+  203  cd Main.java
+  204  git commit 
+  205  git commit Main.java
+  206  git push
+  207  git status
+  208  pwd
+  209  ls
+  210  cd ..
+  211  ls
+  212  ls -l
+  213  ls -a
+  214  touch Helloworld
+  215  ls -a
+  216  touch Helloworld.txt
+  217  ls -a
+  218  remdir Helloworld.txt
+  219  rmdir Helloworld.txt
+  220  rmdir Helloworld.txt
+  221  mkdir ajay
+  222  mkdir ajays
+  223  mkdir Ajays Dhimans
+  224  mkdir Ajayds Dhimans
+  225  mkdir Ajayds Dhimands
+  226  mkdir Ajaydss Dhimands
+  227  mkdir Dhimans
+  228  mkdir Dhimandds
+  229  cd Ajays
+  230  cd Dhimandds
+  231  cd ..
+  232  mkdir Dhimandds asdfg
+  233  mkdir Dhimanffdds asdfg
+  234  mkdir Dhimanffddsee asdfghh
+  235  nano Helloworld.java
+  236  ls
+  237  javac
+  238  javac Helloworld.java
+  239  java Helloworld.java
+  240  ls
+  241  java Helloworld
+  242  ls
+  243  nano Sum.java
+  244  javac Sum.java
+  245  nano Sum.java
+  246  javac Sum.java
+  247  java Sum.java
+  248  ls
+  249  git init
+  250  ls
+  251  git remote add origin https://github.com/adhiman09012002/Class-Work.git
+  252  git checkout -M main
+  253  git checkout -m main
+  254  git checkout -m Main
+  255  git checkout -b main
+  256  git status
+  257  cd Ajayss
+  258  git status
+  259  cd .. 
+  260  git status
+  261  git add Ajayss
+  262  git add Ajayss/.
+  263  git status
+  264  cd ..
+  265  ls
+  266  cd Ajayss
+  267  cd Desktop
+  268  cd Ajayss
+  269  ls
+  270  git status
+  271  git commit -m "[Ajay first commit]"
+  272  git status
+  273  git push 
+  274  git push -u origin main
+  275  pwd
+  276  ls
+  277  ls -a 
+  278  ls -l
+  279  cd Downlads
+  280  cd Desktop
+  281  cd Downlads
+  282  cd ..
+  283  cd Documents
+  284  mkdir Sai
+  285  cd ..
+  286  cd ~
+  287  cd Documents
+  288  mkdir myWorkspace
+  289  cd myWorkspace
+  290  mkdir abc def
+  291  ls
+  292  tauch sample1.txt
+  293  touch sample1.txt
+  294  cat sample1.txt
+  295  nano sample1.txt
+  296  cat sample1.txt
+  297  ls 
+  298  nv sample1.txt abc/
+  299  mv sample1.txt abc/
+  300  cd abc
+  301  ls
+  302  cd ..
+  303  cd def
+  304  cd ..
+  305  cd abc
+  306  cd ..
+  307  ls
+  308  cp abc def
+  309  cp -r abc def
+  310  cd def 
+  311  ls
+  312  rmdir abc
+  313  rm -r abc
+  314  cd abc
+  315  cd ..
+  316  cd abc
+  317  ls
+  318  cd ..
+  319  mv -r abc def
+  320  mv abc def
+  321  ls
+  322  cd def
+  323  ls
+  324  cd abc
+  325  rm sample1.txt
+  326  ls
+  327  cd ..
+  328  ls
+  329  rmdir abc/
+  330  ls
+  331  history
+  332  history > linux-cheet-sheet.txt
+  333  ls
+  334  nano linux-cheet-sheet.txt
+  335  y
+  336  git init
+  337  git remote add origin https://github.com/adhiman09012002/Basic-Linux-Command.git
+  338  git Checkout -b Main
+  339  git checkout -b Main
+  340  git checkout -b main
+  341  git status
+  342  git add linux-cheet-sheet.txt
+  343  git status
+  344  git commit -m"[Ajay] ADD : Added basic linux command cheet sheet file."
+  345  git status
+  346  git log
+  347  git log --oneline
+  348  git push -u origin main
+  349  cd Desktop
+  350  ls
+  351  mkdir Class
+  352  cd Class
+  353  touch sample.java
+  354  ls
+  355  nano sample.java
+  356  nano sample.java
+  357  javac sample.java
+  358  java sample.java
+  359  ls
+  360  cd ..
+  361  ls -a
+  362  rm -r .git/
+  363  y
+  364  y
+  365  ls
+  366  ls -a
+  367  cd ..
+  368  ls -a
+  369  rm -r .git/
+  370  cd Desktop/
+  371  ls
+  372  cd ..
+  373  cd Documents/
+  374  ls
+  375  cd ..
+  376  cd Desktop/
+  377  ls
+  378  ls
+  379  cd myWorkspace/
+  380  ls
+  381  cd deq
+  382  cd def/
+  383  ls
+  384  git status
+  385  git add .
+  386  git commit -m "[Ajay] ADD: write a code to check prime or not."
+  387  git status
+  388  git push -u origin main
+  389  ls
+  390  cd Class/
+  391  touch leapyear.java
+  392  ls
+  393  nano leapyear.java
+  394  javac leapyear.java
+  395  nano leapyear.java
+  396  javac leapyear.java
+  397  java leapyear.java
+  398  nano leapyear.java
+  399  git init
+  400  git status
+  401  git add .
+  402  git status
+  403  git commit -m "[Ajay] ADD: write a code to leap year."
+  404  git status
+  405  git push -u origin master
+  406  git status
+  407  git branch
+  408  git push origin master
+  409  git push origin main
+  410  git init
+  411  ls
+  412  cd Desktop
+  413  ls
+  414  cd myWorkspace/
+  415  git init
+  416  git remote add origin https://github.com/adhiman09012002/Basic-Linux-Command.git
+  417  ls
+  418  cd def/
+  419  ls
+  420  git add linux-cheet-sheet.txt
+  421  git status
+  422  git add .
+  423  git status
+  424  git commit -m "[Ajay] ADD: Basic linux command."
+  425  git push -u origin main
+  426  ls
+  427  cd Desktop
+  428  ls
+  429  cd myWorkspace/
+  430  ls
+  431  cd def/
+  432  ls
+  433  cd Class/
+  434  ls
+  435  touch average.java
+  436  ls
+  437  nano average.java
+  438  javac average.java
+  439  java average.java
+  440  git int 
+  441  git init
+  442  git status
+  443  git add .
+  444  git status
+  445  git branch -b main
+  446  git branch -m main
+  447  git status
+  448  git commit -m "[Ajay] ADD: write a code to find average."
+  449  git push -u origin main
+  450  git push -u origin main
+  451  git remote add origin https://github.com/adhiman09012002/Basic-Linux-Command.git
+  452  git push -u origin main
+  453  git branch -m main
+  454  git commit -m "[Ajay] ADD: write a code to find average."
+  455  git commit -m "[Ajay] ADD: write a code to find average number."
+  456  git branch -m main
+  457  git push -u origin main
+  458  touch averages.java
+  459  nano averages.java
+  460  git remote add origin https://github.com/adhiman09012002/Basic-Linux-Command.git
+  461  git commit -m "[Ajay] ADD: write a code to find average number."
+  462  git add .
+  463  git status
+  464  git commit -m "[Ajay] ADD: write a code to find average number."
+  465  git push -u origin main
+  466  git push -u origin main
+  467  ls
+  468  touch average.java
+  469  nano average.java
+  470  git status
+  471  git add average.java
+  472  git status
+  473  cd ..
+  474  cd Class/
+  475  ls
+  476  git status
+  477  git add .
+  478  git status
+  479  rm averages.java
+  480  ls
+  481  git status
+  482  git commit -m "[Ajay] ADD: write a code to find average number."
+  483  git push -u origin main
+  484  git push  origin main
+  485  rm average.java
+  486  ls
+  487  cd ..
+  488  touch average.java
+  489  ls
+  490  nano average.java
+  491  javac average.java
+  492  java average.java
+  493  git init
+  494  git status
+  495  git add .
+  496  git status
+  497  git commit -m "[Ajay] ADD: write a code to find average number."
+  498  git push -u origin main
+  499  ls
+  500  ls 
+  501  cd Desktop
+  502  pwd
+  503  ls
+  504  cd LinuxCls/
+  505  ls
+  506  pwd
+  507  ls
+  508  cd ..
+  509  mkdir BL_JAVA_WORKSPACE
+  510  ls
+  511  cd BL_JAVA_WORKSPACE/
+  512  ls
+  513  cd .. 
+  514  cd BL_JAVA_WORKSPACE/
+  515  mkdir basic_linux_git_commands JAVA_Program
+  516  ls
+  517  touch abc
+  518  ls
+  519  cp abc JAVA_Program/
+  520  ls
+  521  cd JAVA_Program/
+  522  ls
+  523  rm abc
+  524  ls
+  525  cd ..
+  526  ls
+  527  pwd
+  528  ls
+  529  mv abc JAVA_Program/
+  530  ls
+  531  cd JAVA_Program/
+  532  ls
+  533   rm abc
+  534  cd .. 
+  535  cd basic_linux_git_commands/
+  536  history
+  537  history > Linux_commands_Cheetsheet
